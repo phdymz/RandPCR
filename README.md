@@ -1,2 +1,2 @@
 # RandPCR
-Robust Point Cloud Registration via Random Network Co-ensemble (TCSVT)
+Robust Point Cloud Registration via Random Network Co-ensemble
